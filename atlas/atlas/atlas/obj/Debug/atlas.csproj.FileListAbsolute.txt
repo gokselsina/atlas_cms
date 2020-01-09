@@ -1,0 +1,14 @@
+C:\Users\Göksel Sina\source\repos\atlas\atlas\bin\Debug\atlas.exe.config
+C:\Users\Göksel Sina\source\repos\atlas\atlas\bin\Debug\atlas.exe
+C:\Users\Göksel Sina\source\repos\atlas\atlas\bin\Debug\atlas.pdb
+C:\Users\Göksel Sina\source\repos\atlas\atlas\obj\Debug\atlas.Properties.Resources.resources
+C:\Users\Göksel Sina\source\repos\atlas\atlas\obj\Debug\atlas.csproj.GenerateResource.cache
+C:\Users\Göksel Sina\source\repos\atlas\atlas\obj\Debug\atlas.csproj.CoreCompileInputs.cache
+C:\Users\Göksel Sina\source\repos\atlas\atlas\obj\Debug\atlas.exe
+C:\Users\Göksel Sina\source\repos\atlas\atlas\obj\Debug\atlas.pdb
+C:\Users\Göksel Sina\source\repos\atlas\atlas\obj\Debug\atlas.panel1.resources
+C:\Users\Göksel Sina\source\repos\atlas\atlas\obj\Debug\atlas.login.resources
+C:\Users\Göksel Sina\source\repos\atlas\atlas\obj\Debug\atlas.signin.resources
+C:\Users\Göksel Sina\source\repos\atlas\atlas\obj\Debug\atlas.saloon.resources
+C:\Users\Göksel Sina\source\repos\atlas\atlas\obj\Debug\atlas.addbalance.resources
+C:\Users\Göksel Sina\source\repos\atlas\atlas\obj\Debug\atlas.csprojAssemblyReference.cache
